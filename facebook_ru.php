@@ -1,0 +1,1 @@
+<a class="facebook" href="https://www.facebook.com/rwk.com.ua/?__tn__=%2Cd%2CP-R&eid=ARCJQofINRfTElnwHwFekqbjbO-XmkDPN8hB8RuM_hHw0q9e6zBqB1tu4wpJbh4rFgkcuVKl379KU4o9"target="_blank"><img src="images/facebook.png" width="30px" alt="" title="Присоединиться к нам в Facebook"></a>
